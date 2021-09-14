@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Passion+One&family=Sawarabi+Mincho&display=swap');
 
 *{
     margin:0;
@@ -6,5 +6,20 @@
 }
 
 body{
+    p{
+        color: orangered;
+    }
+}
+h1{
+    font-family: 'Passion One', cursive;
+}
+
+h2{
     font-family: 'Bangers', cursive;
+    a{
+        color: red;
+    }
+}
+p{
+    font-family: 'Sawarabi Mincho', sans-serif
 }
