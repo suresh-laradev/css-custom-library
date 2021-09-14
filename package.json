@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/suresh-laradev/css-custom-library/issues"
   },
-  "homepage": "https://github.com/suresh-laradev/css-custom-library#readme"
+  "homepage": "https://github.com/suresh-laradev/css-custom-library#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.40.0"
+  }
 }
