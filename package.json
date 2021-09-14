@@ -1,0 +1,22 @@
+{
+  "name": "css-custom-library",
+  "version": "1.0.0",
+  "description": "CSS Custom Library. For learning purpose only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suresh-laradev/css-custom-library.git"
+  },
+  "keywords": [
+    "css-custom-library"
+  ],
+  "author": "Suresh, Aneesha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suresh-laradev/css-custom-library/issues"
+  },
+  "homepage": "https://github.com/suresh-laradev/css-custom-library#readme"
+}
